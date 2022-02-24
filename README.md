@@ -1,7 +1,7 @@
 # TPAC2022-Health-rules
 Health rules for TPAC 2022
 
-Traveling to Canada<br/>
+## Traveling to Canada
 Before planning your trip to Canada, please read carefully the instructions provided by the Government of Canada and make sure you strictly follow them:<br/>
 - Qualification as a fully vaccinated traveler
 - Checklist of things you need to have ready at the border
