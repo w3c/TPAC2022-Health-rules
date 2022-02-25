@@ -3,7 +3,8 @@ As the health situation is changing rapidly, the rules below will change and be 
 We welcome your comments and are happy to answer to the questions you may have.
 
 ## Traveling to Canada
-Before planning your trip to Canada, please read carefully the instructions provided by the Government of Canada and make sure you strictly follow them:<br/>
+Before planning your trip to Canada, please read carefully the instructions provided by the Government of Canada and make sure you strictly follow them:
+https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-travellers-entering-canada#determine-fully<br/>
 - Qualification as a fully vaccinated traveler
 - Checklist of things you need to have ready at the border
 - Pre-entry testing
@@ -23,5 +24,6 @@ The safety of our attendees is our priority. As the situation is evolving quickl
 - The health rules will be reminded regularly: on screens, at the beginning of meetings…
 
 ## Sheraton Vancouver rules and recommendations<br/>
-The rules and recommendations set by the Vancouver Sheraton hotel will also apply. 
+The rules and recommendations set by the Vancouver Sheraton hotel] will also apply:
+https://whattoexpect.marriott.com/yvrws
 
