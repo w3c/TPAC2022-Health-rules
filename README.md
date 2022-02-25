@@ -1,5 +1,6 @@
 # TPAC2022-Health-rules
-Health rules for TPAC 2022
+As the health situation is changing rapidly, the rules below will change and be adapted to the September situation is Vancouver.
+We welcome your comments and are happy to answer to the questions you may have.
 
 ## Traveling to Canada
 Before planning your trip to Canada, please read carefully the instructions provided by the Government of Canada and make sure you strictly follow them:<br/>
