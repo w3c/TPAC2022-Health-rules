@@ -9,7 +9,7 @@ Before planning your trip to Canada, please read carefully the instructions prov
 - Mandatory ArriveCAN mobile app - a quarantine plan will be requested
 - Arrival tests and possible quarantine while waiting results
 
-On site W3C rules<br/>
+## On site W3C rules<br/>
 The safety of our attendees is our priority. As the situation is evolving quickly we can not confirm the exact rules at this stage but here are what we are working on:
 - Proof of vaccination and tests policies will confirmed when get closer to the event depending  on the health 
 - During the health situation in September in Vancouver, all TPAC attendees will be mandatory asked or encouraged to wear a mask on the mouth and nose during the whole duration of the event in all inside premises
@@ -21,6 +21,6 @@ The safety of our attendees is our priority. As the situation is evolving quickl
 - During the whole meeting: hugs and handshakes will be avoided: possibility to provide stickers indicating the social distancing rules preferences of each attendee
 - The health rules will be reminded regularly: on screens, at the beginning of meetings…
 
-Sheraton Vancouver rules and recommendations<br/>
+## Sheraton Vancouver rules and recommendations<br/>
 The rules and recommendations set by the Vancouver Sheraton hotel will also apply. 
 
