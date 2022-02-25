@@ -17,8 +17,8 @@ https://travel.gc.ca/travel-covid/travel-restrictions/covid-vaccinated-traveller
 
 ## On site W3C rules<br/>
 The safety of our attendees is our priority. As the situation is evolving quickly we can not confirm the exact rules at this stage but here are what we are working on:
-- Proof of vaccination and tests policies will confirmed when get closer to the event depending  on the health 
-- During the health situation in September in Vancouver, all TPAC attendees will be mandatory asked or encouraged to wear a mask on the mouth and nose during the whole duration of the event in all inside premises
+- Proof of vaccination and tests policies to be confirmed 
+- Masks mandatory or encouraged depending on the situation
 - In case of COVID-19 symptoms while at Sheraton Wall Centre, please do not come to the meeting and get a test. Rules in case of positive or negative tests will be confirmed soon
 - Disinfecting wipes as well as hand sanitizers will be available in each meeting rooms and common space
 - Social distancing that currently applies are as follows (but may be adjusted at the time of the meeting):
